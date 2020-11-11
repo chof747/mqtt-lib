@@ -1,0 +1,9 @@
+{
+    "name" : "mqtt-lib",
+    "version" : "0.0.1",
+    "frameworks": "*",
+    "dependencies" : {
+        "WiFiManager" : "https://github.com/chof747/WiFiManager.git#2.0.4",
+        "PubSubClient" : "^2.8"
+    }
+}
